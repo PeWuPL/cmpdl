@@ -1,0 +1,2 @@
+# cmpdl
+Curse modpack downloader
